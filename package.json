@@ -1,0 +1,17 @@
+{
+  "name": "wechat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "montekaka",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^0.68.1",
+    "wechaty-puppet-padlocal": "^0.4.2",
+    "wechaty-puppet-wechat": "^0.28.4"
+  }
+}
